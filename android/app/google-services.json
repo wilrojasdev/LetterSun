@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77740383716",
+    "project_id": "kellcy-b18d0",
+    "storage_bucket": "kellcy-b18d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77740383716:android:95368a4fd9a04cc2263bf1",
+        "android_client_info": {
+          "package_name": "com.example.kellci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77740383716-osp3m46ql789m1bvi06jq4rng7jg0vfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyU0w4k4qoZfNheQHLUoExdbPFhDmD2dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77740383716-osp3m46ql789m1bvi06jq4rng7jg0vfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
